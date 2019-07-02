@@ -4,7 +4,7 @@
 title: Voluntários Movva
 
 # Short description of your site
-description: Página os Produtores de Conteúdo
+description: Página dos Conteúdo
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -67,7 +67,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+  rss: false
 #  email: "someone@example.com"
   facebook: movvabr
 #  github: daattali
